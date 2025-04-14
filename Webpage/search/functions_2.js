@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['compare_5fingredient_5fby_5fname_0',['compare_ingredient_by_name',['../queries_8c.html#a43fef6f8e812a124fd3ed9260d513869',1,'compare_ingredient_by_name(const void *a, const void *b):&#160;queries.c'],['../queries_8h.html#a43fef6f8e812a124fd3ed9260d513869',1,'compare_ingredient_by_name(const void *a, const void *b):&#160;queries.c']]],
+  ['compare_5fpotion_5fby_5fname_1',['compare_potion_by_name',['../queries_8c.html#a6c310e7fb94e64c615311ba5e8354559',1,'compare_potion_by_name(const void *a, const void *b):&#160;queries.c'],['../queries_8h.html#a6c310e7fb94e64c615311ba5e8354559',1,'compare_potion_by_name(const void *a, const void *b):&#160;queries.c']]],
+  ['compare_5frecipe_5fingredients_5fby_5fquantity_2',['compare_recipe_ingredients_by_quantity',['../queries_8c.html#a205ff354263929ef5c915404a931f9e3',1,'compare_recipe_ingredients_by_quantity(const void *a, const void *b):&#160;queries.c'],['../queries_8h.html#a205ff354263929ef5c915404a931f9e3',1,'compare_recipe_ingredients_by_quantity(const void *a, const void *b):&#160;queries.c']]],
+  ['compare_5fstrings_3',['compare_strings',['../queries_8c.html#a054ac82bb13d06ac7c8e7667846b7ad6',1,'compare_strings(const void *a, const void *b):&#160;queries.c'],['../queries_8h.html#a054ac82bb13d06ac7c8e7667846b7ad6',1,'compare_strings(const void *a, const void *b):&#160;queries.c']]],
+  ['compare_5ftrophy_5fby_5fname_4',['compare_trophy_by_name',['../queries_8c.html#ad5ee11742fb11f435f7cfc5e4fac6169',1,'compare_trophy_by_name(const void *a, const void *b):&#160;queries.c'],['../queries_8h.html#ad5ee11742fb11f435f7cfc5e4fac6169',1,'compare_trophy_by_name(const void *a, const void *b):&#160;queries.c']]]
+];
