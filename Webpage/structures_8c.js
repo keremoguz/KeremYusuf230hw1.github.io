@@ -1,0 +1,25 @@
+var structures_8c =
+[
+    [ "INIT_CAPACITY", "structures_8c.html#a1c2454dbbfd298b8e2cd09eb93b6a8f6", null ],
+    [ "MAX_NAME_LENGTH", "structures_8c.html#a0c397a708cec89c74029582574516b30", null ],
+    [ "addIngredient", "structures_8c.html#a7247aaeea3e2115109442a6676d47439", null ],
+    [ "addIngredientToRecipe", "structures_8c.html#a8b69f93c090e2f3065c205d6f8d67b14", null ],
+    [ "addPotion", "structures_8c.html#aaabac6741ba17f0dac08a748fe621139", null ],
+    [ "addSign", "structures_8c.html#a62a84e0f13f8e2f01e4220ee85110973", null ],
+    [ "addTrophy", "structures_8c.html#adadb45830b4fffe142241745165910cb", null ],
+    [ "addWeakness", "structures_8c.html#a6488905b52e0852e78adb4265ed18e16", null ],
+    [ "freeBestiary", "structures_8c.html#a7cdf90c6c32af7668bc4dc5d4568b3da", null ],
+    [ "freeInventory", "structures_8c.html#aede94e4d3adf7b9f4311c7fce381155d", null ],
+    [ "freePotionInventory", "structures_8c.html#aac69611a3a1d056c7f3e534be1aff185", null ],
+    [ "freeRecipeBook", "structures_8c.html#a176333ab35bcb87644c55f34ae4a84d6", null ],
+    [ "freeSignInventory", "structures_8c.html#a584832803fca6e525f7a8eb2a722cae7", null ],
+    [ "freeTrophyInventory", "structures_8c.html#aae52fede064a38eec26a440afca65a79", null ],
+    [ "initBestiary", "structures_8c.html#aa268ba07d7361bc1d7eb1d66a101cc57", null ],
+    [ "initBestiaryEntry", "structures_8c.html#a71763150946d8e915d4fc00d11985adf", null ],
+    [ "initInventory", "structures_8c.html#a6c3caeefe89730ed0723072292b9580b", null ],
+    [ "initPotionInventory", "structures_8c.html#a53b14d34f1f7cf290734027c8d1ccb45", null ],
+    [ "initPotionRecipe", "structures_8c.html#ab0671fdad86c1f750a6fbae19e3cf305", null ],
+    [ "initRecipeBook", "structures_8c.html#a9f204b55a251c169b3204d51e00556b7", null ],
+    [ "initSignInventory", "structures_8c.html#a24d32853adafc099add3bca288fa77d8", null ],
+    [ "initTrophyInventory", "structures_8c.html#a23af1ffcb09182711f67ebf265ad24bb", null ]
+];
